@@ -1,0 +1,15 @@
+@import './variable.scss';
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.font-color {
+    color: $text_color;
+}
+
+.puprle_text {
+    color: $primary_color;
+}

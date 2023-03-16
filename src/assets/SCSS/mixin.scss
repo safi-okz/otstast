@@ -1,0 +1,8 @@
+@import './variable.scss';
+
+@mixin button{
+    color: #fff;
+    background-color: $primary_color;
+    padding: .5rem 1rem;
+    border-radius: .2rem;
+}
